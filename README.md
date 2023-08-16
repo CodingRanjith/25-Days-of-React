@@ -1,5 +1,5 @@
 <div align="center">
-<img  height="80%"  src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" />
+<img src="https://i.ibb.co/WxJdF0b/react-logo.png" />
 </div>
 
 <div align="center">
@@ -17,6 +17,11 @@
 <small> August 16 to September 10, 2023</small></sub>
 
 </div>
+
+<div align="center">
+<img src="https://i.ibb.co/WxJdF0b/react-logo.png" />
+</div>
+
 
 
 [Day 1 >>]()
