@@ -29,7 +29,10 @@
 <hr>
 
 - [Introduction](#introduction)
+- [Setup](#setup)
+- 
 
+- 
 --- 
 
 ## Introduction
@@ -62,6 +65,16 @@ Unidirectional data flow:  React’s one-way data flow (also called one-way bind
 | React's core size is smaller than Angular, so bit fast | Angular being a framework contains a lot of code, resulting in longer load time |
 | React is very flexible | Angular has less flexibility |
 | Great performer, since it uses Virtual DOM | Angular uses actual DOM which affects its performance |
+
+---
+
+## Setup
+
+
+
+
+
+
 
  
 
