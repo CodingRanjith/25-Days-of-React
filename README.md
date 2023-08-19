@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/WxJdF0b/react-logo.png" />
+<img src="https://i.ibb.co/7pVdg0V/reactjs.jpg" />
 </div>
 
 <div align="center">
