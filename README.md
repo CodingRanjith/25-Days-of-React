@@ -28,12 +28,20 @@
 
 | # Day |                                                           Topics                                                            |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------: |
-| Day - 01 | [Introduction](#introduction) , [Setup](#setup) , [React ES6](#react-es6) , [React Render](#react-render)  |
+| Day - 01 | [Introduction to React, setup development environment (Node.js, npm/yarn, code editor).](#introduction)  |
 
 
 
 
 ❤️👨‍💻❤️ HAPPY CODING ❤️😇❤️
+
+<div>
+<small>Support the <strong>author</strong> to create more educational materials</small> <br />  
+<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+</div>
+
+---
+
 
 
 
