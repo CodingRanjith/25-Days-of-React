@@ -122,19 +122,19 @@ If you've previously installed create-react-app globally, it is recommended that
 
 To uninstall, run this command: npm uninstall -g create-react-app.
 
-Run this command to create a React application named rk-react:
+Run this command to create a React application named react-challenge:
 
 ```bash
-npx create-react-app rk-react
+npx create-react-app react-challenge
 ```
 
 Run the React Application
 Now you are ready to run your first real React application!
 
-Run this command to move to the my-react-app directory:
+Run this command to move to the react-challenge directory:
 
 ```bash
-cd rk-react
+cd react-challenge
 ```
 
 Run this command to run the React application my-react-app:
@@ -148,7 +148,7 @@ A new browser window will pop up with your newly created React App! If not, open
 Output :
 
 <div align="center">
-<img  height="80%"  src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" />
+<img  height="80%"  src="https://i.ibb.co/k5GWjq7/react-app.png" />
 </div>
 
 ### Modify the React Application
@@ -172,21 +172,6 @@ To install the latest version, from your project folder run the following from t
 ```bash
 npm i react@latest react-dom@latest
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
 
 
 
