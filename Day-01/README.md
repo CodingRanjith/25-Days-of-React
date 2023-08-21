@@ -116,8 +116,16 @@ Example:
 
 ### Set up your first React project using create-react-app
 
+If you have npx and Node.js installed, you can create a React application by using create-react-app.
+
+If you've previously installed create-react-app globally, it is recommended that you uninstall the package to ensure npx always uses the latest version of create-react-app.
+
+To uninstall, run this command: npm uninstall -g create-react-app.
+
+Run this command to create a React application named rk-react:
+
 ```bash
-npx create-react-app my-react-app
+npx create-react-app rk-react
 ```
 
 Run the React Application
@@ -126,7 +134,7 @@ Now you are ready to run your first real React application!
 Run this command to move to the my-react-app directory:
 
 ```bash
-cd my-react-app
+cd rk-react
 ```
 
 Run this command to run the React application my-react-app:
