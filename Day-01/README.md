@@ -19,21 +19,22 @@
 </div>
 
 
-- [ Introduction to React, setup development environment (Node.js, npm/yarn, code editor). ](#introduction)
-  - [Learn about React's role and advantages.]()
-  - [Install Node.js and a code editor.]()
-  - [Set up your first React project using create-react-app.]()
+- Introduction to React, setup development environment (Node.js, npm/yarn, code editor). 
+  - [Learn about React's role and advantages.](#introduction)
+  - [Install Node.js and a code editor.](#setup)
+  - [Set up your first React project using create-react-app.](#first-react-app)
  
     
 --- 
 
 ## Introduction
 
+### Learn about React's role and advantages.
 
 ### What is React?
 
 <div align="center">
-<img  height="80%"  src=""/>
+<img  height="80%"  src="https://i.ibb.co/WxJdF0b/react-logo.png"/>
 </div>
 
 ReactJS, a JavaScript library for creating user interfaces,makes the development of UI components easy and modular.
@@ -58,26 +59,62 @@ Unidirectional data flow:  React’s one-way data flow (also called one-way bind
 | React is very flexible | Angular has less flexibility |
 | Great performer, since it uses Virtual DOM | Angular uses actual DOM which affects its performance |
 
+### What is Node.js ?
+
+- Node.js is an open source server environment
+- Node.js is free
+- Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+- Node.js uses JavaScript on the server
+
+### What can Node.js Do ?
+
+- Node.js can generate dynamic page content
+- Node.js can create, open, read, write, delete, and close files on the server
+- Node.js can collect form data
+- Node.js can add, delete, modify data in your database
+
+### What is npm ?
+
+npm is the world's largest Software Registry.
+The registry contains over 800,000 code packages.
+Open-source developers use npm to share software.
+Many organizations also use npm to manage private development.
+
+```bash
+npm install <package>
+```
+
 ---
 
 ## Setup
 
-### To install create-react-app, follow the below steps:
+### Install Node.js and a code editor
 
-If you have npx and Node.js installed, you can create a React application by using create-react-app.
+#### Install Node.js
 
-You can check the node version installed 
+The first step to install Node.js on windows is to download the installer. Visit the official Node.js website i.e) https://nodejs.org/en/download/ and download the .msi file according to your system environment (32-bit & 64-bit). An MSI installer will be downloaded on your system.
+
+Double click on the .msi installer.
+
+Verify that Node.js was properly installed or not.
 
 ```bash
 D:\> node -v
-v17.2.0
+v20.3.1
 ```
+Example:
 
-If you've previously installed create-react-app globally, it is recommended that you uninstall the package to ensure npx always uses the latest version of create-react-app.
+<img src="https://i.ibb.co/m57KVdQ/node.png" alt="node-version" />
 
-To uninstall, run this command: npm uninstall -g create-react-app.
+#### Install code editor
 
-Run this command to create a React application named my-react-app:
+[Visual Studio](https://code.visualstudio.com/download)
+
+---
+
+## First React App
+
+### Set up your first React project using create-react-app
 
 ```bash
 npx create-react-app my-react-app
