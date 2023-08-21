@@ -162,7 +162,13 @@ Replace all the content inside the <div className="App"> with a h1 element.
 See the changes in the browser when you click Save.
 
 <div align="center">
-<img  height="80%"  src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" />
+<img  height="80%"  src="https://i.ibb.co/3h9H42j/rk-react-code.png" />
+</div>
+
+Output:
+
+<div align="center">
+<img  height="80%"  src="https://i.ibb.co/6sqc9s6/rk-react.png" />
 </div>
 
 ### Upgrade to React 
