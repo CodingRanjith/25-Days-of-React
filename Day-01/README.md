@@ -19,11 +19,12 @@
 </div>
 
 
-- [Introduction](#introduction)
-- [Setup](#setup)
-- [React ES6](#react-es6)
-- [React Render](#react-render)
-  
+- [ Introduction to React, setup development environment (Node.js, npm/yarn, code editor). ](#introduction)
+  - [Learn about React's role and advantages.]()
+  - [Install Node.js and a code editor.]()
+  - [Set up your first React project using create-react-app.]()
+ 
+    
 --- 
 
 ## Introduction
