@@ -24,11 +24,11 @@
 </div>
 
 
-[Day 1 >>]()
+[Day 1 >>](https://github.com/CodingRanjith/25-Days-of-React/blob/main/Day-01/README.md)
 
 | # Day |                                                           Topics                                                            |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------: |
-| Day - 01 | [Introduction to React, setup development environment (Node.js, npm/yarn, code editor).](#introduction)  |
+| Day - 01 | [Introduction to React, setup development environment (Node.js, npm/yarn, code editor).](https://github.com/CodingRanjith/25-Days-of-React/blob/main/Day-01/README.md)  |
 
 
 
@@ -37,7 +37,7 @@
 
 <div>
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-### PayPal: https://bit.ly/3QKknix
+PayPal: https://bit.ly/3QKknix
 </div>
 
 ---
