@@ -146,7 +146,7 @@ A Component is one of the core building blocks of React. In other words, we can 
 
 
 
-[Day 2 >>]()
+[Day 3 >>]()
 
 
 ❤️👨‍💻❤️ HAPPY CODING ❤️😇❤️
