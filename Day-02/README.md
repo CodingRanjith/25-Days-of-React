@@ -22,7 +22,7 @@
 - Day 2: JSX syntax, rendering elements, and understanding components. 
   - [Explore JSX syntax.](#jsx-syntax)
   - [Create and render React elements.](#react-render)
-  - [Understand the component structure.](#component)
+  - [Understand the component structure.](#react-components)
  
     
 --- 
