@@ -22,7 +22,7 @@
 - Day 2: JSX syntax, rendering elements, and understanding components. 
   - [Explore JSX syntax.](#jsx-syntax)
   - [Create and render React elements.](#react-render)
-  - [Understand the component structure.](#first-react-app)
+  - [Understand the component structure.](#component)
  
     
 --- 
@@ -80,7 +80,7 @@ The purpose of the function is to define the HTML element where a React componen
 The render Method
 The render() method is then called to define the React component that should be rendered.
 
-But render where?
+### But render where?
 
 There is another folder in the root directory of your React project, named "public". In this folder, there is an index.html file.
 
@@ -110,7 +110,8 @@ The HTML code in this tutorial uses JSX which allows you to write HTML tags insi
 
 Do not worry if the syntax is unfamiliar, you will learn more about JSX in the next chapter.
 
-Example
+Example: 
+
 Create a variable that contains HTML code and display it in the "root" node:
 
 ```bash
@@ -132,6 +133,16 @@ const container = document.getElementById('root');
 const root = ReactDOM.createRoot(container);
 root.render(myelement);
 ```
+
+## React Components
+
+### Understand the component structure
+
+#### What is a ReactJS Component?
+
+A Component is one of the core building blocks of React. In other words, we can say that every application you will develop in React will be made up of pieces called components. Components make the task of building UIs much easier. You can see a UI broken down into multiple individual pieces called components and work on them independently and merge them all in a parent component which will be your final UI. 
+
+
 
 
 
