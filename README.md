@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=Youtube&logo=youtube&style=social">
   </a>
 
-<sub>Author: <a href="https://www.linkedin.com/in/coding-ranjith-97b6ab238" target="_blank">Coding Ranjith</a><br>&<a href="www.linkedin.com/in/pushparajraje" target="_blank">Pushparaj Raje</a><br>
+<sub>Author: <a href="https://www.linkedin.com/in/coding-ranjith-97b6ab238" target="_blank">Coding Ranjith</a><br>&<a href="www.linkedin.com/in/pushparajraje/" target="_blank">Pushparaj Raje</a><br>
 </sub>
 <small> August to September, 2023</small>
 
