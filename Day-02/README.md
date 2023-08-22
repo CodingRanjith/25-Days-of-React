@@ -21,7 +21,7 @@
 
 - Day 2: JSX syntax, rendering elements, and understanding components. 
   - [Explore JSX syntax.](#jsx-syntax)
-  - [Create and render React elements.](#setup)
+  - [Create and render React elements.](#react-render)
   - [Understand the component structure.](#first-react-app)
  
     
@@ -31,7 +31,107 @@
 
 ### Explore JSX syntax.
 
+#### What is JSX ?
 
+JSX stands for JavaScript XML.
+
+JSX allows us to write HTML in React.
+
+JSX makes it easier to write and add HTML in React.
+
+### Coding JSX.
+
+JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement()  and/or appendChild() methods.
+JSX converts HTML tags into react elements.
+
+Example:
+
+JSX:
+```bash
+const myElement = <h1>Hi Guys!</h1>;
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(myElement);
+```
+
+Without JSX:
+```bash
+const myElement = React.createElement('h1', {}, 'I do not use JSX!');
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(myElement);
+```
+
+---
+
+## React Render
+
+### Create and render React elements
+
+React's goal is in many ways to render HTML in a web page.
+
+React renders HTML to the web page by using a function called createRoot() and its method render().
+
+The createRoot Function
+The createRoot() function takes one argument, an HTML element.
+
+The purpose of the function is to define the HTML element where a React component should be displayed.
+
+The render Method
+The render() method is then called to define the React component that should be rendered.
+
+But render where?
+
+There is another folder in the root directory of your React project, named "public". In this folder, there is an index.html file.
+
+You'll notice a single <div> in the body of this file. This is where our React application will be rendered.
+
+Example :
+
+Display a paragraph inside an element with the id of "root":
+
+```bash
+const container = document.getElementById('root');
+const root = ReactDOM.createRoot(container);
+root.render(<p>Hello</p>);
+```
+
+The result is displayed in the <div id="root"> element:
+
+```bash
+<body>
+  <div id="root"></div>
+</body>
+```
+
+### The HTML Code
+
+The HTML code in this tutorial uses JSX which allows you to write HTML tags inside the JavaScript code:
+
+Do not worry if the syntax is unfamiliar, you will learn more about JSX in the next chapter.
+
+Example
+Create a variable that contains HTML code and display it in the "root" node:
+
+```bash
+const myelement = (
+  <table>
+    <tr>
+      <th>Name</th>
+    </tr>
+    <tr>
+      <td>John</td>
+    </tr>
+    <tr>
+      <td>Elsa</td>
+    </tr>
+  </table>
+);
+
+const container = document.getElementById('root');
+const root = ReactDOM.createRoot(container);
+root.render(myelement);
+```
 
 
 
