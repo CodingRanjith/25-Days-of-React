@@ -19,11 +19,13 @@
 <small> August to September, 2023</small></sub>
 
 </div>
-
-
     
 --- 
 
+Day 3: State and props, component lifecycle methods.
+- [Learn about component state and how to use it]()
+- [Understand props and their role in passing data]()
+- [Gain an overview of component lifecycle methods]()
 
 
 
