@@ -5,6 +5,7 @@
 <div align="center">
 
   <h1>Day - 02 in React</h1>
+  
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/coding-ranjith-97b6ab238">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -19,11 +20,12 @@
 
 </div>
 
-
+- 
 - Day 2: JSX syntax, rendering elements, and understanding components. 
   - [Explore JSX syntax.](#jsx-syntax)
   - [Create and render React elements.](#react-render)
   - [Understand the component structure.](#react-components)
+    - ran
  
     
 --- 
