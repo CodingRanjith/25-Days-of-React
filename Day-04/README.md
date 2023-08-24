@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <h1>Day - 02 in React</h1>
+  <h1>Day - 04 in React</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/coding-ranjith-97b6ab238">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -20,33 +20,25 @@
 </div>
 
 
-- Day 3: State and props, component lifecycle methods.
-  - [Learn about component state and how to use it](#component-state)
-  - [Understand props and their role in passing data](#props)
-  - [Gain an overview of component lifecycle methods]()
- 
+- Day 4: Handling events, conditional rendering.
+  - [Learn to handle events in React components](#handle-event)
+  - [Practice conditional rendering based on state or props](#state-or-props)
     
 --- 
 
-## Component State
+## Handle Event
 
-### Learn about component state and how to use it
+### Learn to handle events in React components
 
 
-
----
-
-## Props
-
-### Understand props and their role in passing data
 
 ---
 
-## Components Lifecycle
+## State or Props
 
-### Gain an overview of component lifecycle methods
+### Practice conditional rendering based on state or props
 
-
+---
 
 
 
