@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <h1>Day - 02 in React</h1>
+  <h1>Day - 06 in React</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/coding-ranjith-97b6ab238">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -19,38 +19,27 @@
 
 </div>
 
+Styling in React (CSS, CSS-in-JS libraries).
+ - [Explore different approaches to styling React components](#style-react-components)
+ - [Practice styling using CSS or CSS-in-JS libraries like Styled Components](#css-js-libraries)
 
-- Day 3: State and props, component lifecycle methods.
-  - [Learn about component state and how to use it](#component-state)
-  - [Understand props and their role in passing data](#props)
-  - [Gain an overview of component lifecycle methods]()
- 
     
 --- 
 
-## Component State
+## Style React Components
 
-### Learn about component state and how to use it
-
-
+### Explore different approaches to styling React components
 
 ---
 
-## Props
+## CSS JS Libraries
 
-### Understand props and their role in passing data
+### Practice styling using CSS or CSS-in-JS libraries like Styled Components
 
 ---
 
-## Components Lifecycle
 
-### Gain an overview of component lifecycle methods
-
-
-
-
-
-[Day 4 >>]()
+[Day 7 >>]()
 
 
 ❤️👨‍💻❤️ HAPPY CODING ❤️😇❤️
