@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <h1>Day - 02 in React</h1>
+  <h1>Day - 05 in React</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/coding-ranjith-97b6ab238">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -20,37 +20,29 @@
 </div>
 
 
-- Day 3: State and props, component lifecycle methods.
-  - [Learn about component state and how to use it](#component-state)
-  - [Understand props and their role in passing data](#props)
-  - [Gain an overview of component lifecycle methods]()
+Day 5: Lists and keys, forms and controlled components.
+ -[Understand lists rendering and the importance of keys](#lists-rendering)
+ -[Learn about forms and controlled components](#froms-controlled-components)
  
     
 --- 
 
-## Component State
+## Lists Rendering
 
-### Learn about component state and how to use it
+### Understand lists rendering and the importance of keys
 
 
 
 ---
 
-## Props
+## Froms Controlled Components
 
-### Understand props and their role in passing data
+### Learn about forms and controlled components
 
 ---
 
-## Components Lifecycle
 
-### Gain an overview of component lifecycle methods
-
-
-
-
-
-[Day 4 >>]()
+[Day 6 >>]()
 
 
 ❤️👨‍💻❤️ HAPPY CODING ❤️😇❤️
