@@ -21,8 +21,8 @@
 
 
 Day 5: Lists and keys, forms and controlled components.
- -[Understand lists rendering and the importance of keys](#lists-rendering)
- -[Learn about forms and controlled components](#froms-controlled-components)
+ - [Understand lists rendering and the importance of keys](#lists-rendering)
+ - [Learn about forms and controlled components](#froms-controlled-components)
  
     
 --- 
